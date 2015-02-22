@@ -1,0 +1,24 @@
+.botao {
+    height: 100px;
+}
+
+
+body {
+        padding-top: 50px;
+        padding-bottom: 20px;
+      }
+
+#botao_id {
+outline: none;
+border: none;
+background: transparent;
+}
+
+#footer {
+    padding: 5px;
+    text-align: center;
+}
+
+.pusheen {
+   
+}
